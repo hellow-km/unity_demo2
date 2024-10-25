@@ -2,4 +2,4 @@
 
 ## 预览
 
-![预览图片](https://github.com/hzh-Neo/Monkey3D/blob/main/20240726185934326943.gif)
+![预览图片](https://github.com/hellow-km/unity_demo2/blob/main/20240726185934326943.gif)
